@@ -1,12 +1,12 @@
-##安装nodejs和cordova
+## 安装nodejs和cordova
 npm install -g cordova.
-##创建cordova
+## 创建cordova
 cordova create cordova-app
 cordova platform add browser
 cordova platform list
 cordova run browser
 
-##创建cordova 桌面版本
+## 创建cordova 桌面版本
 
 cordova create cordova-electron
 cordova platform add electron
